@@ -3,7 +3,7 @@
 
 
     <body>
-	<?php echo '<p>{"Output":"Hello World from EB!"}</p>'; ?>
+	<?php Print '{"Output":"Hello World from Fargate!"}'; ?>
     </body>
 
 </html>
