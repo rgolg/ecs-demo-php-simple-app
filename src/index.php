@@ -3,7 +3,7 @@
 
 
     <body>
-	<?php echo '<p>Hello World</p>'; ?>
+	<?php echo '<p>{"Output":"Hello World from EB!"}</p>'; ?>
     </body>
 
 </html>
